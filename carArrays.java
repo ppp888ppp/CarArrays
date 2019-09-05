@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class carArrays
+public class CarArrays
 {
 	public static void main(String[]args)
 	{	
